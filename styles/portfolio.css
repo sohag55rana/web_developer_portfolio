@@ -132,3 +132,9 @@ main{
     margin-top: 0;
     
 }
+#what-i-do-description{
+    padding: 30px 116px;
+}
+.skills-container{
+    display: flex;
+}
